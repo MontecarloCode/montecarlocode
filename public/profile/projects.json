@@ -1,0 +1,76 @@
+{
+    "projects": [{
+            "image": "images/projects/1nance.png",
+            "title": "1nance",
+            "bodyText": "- Developer 1nance Website made in React\n -  Fully staking with 1nance coin.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://1nance.com"
+                }
+            ],
+            "tags": [
+                "React",
+                "Web3",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/grapefinance.png",
+            "title": "1nance",
+            "bodyText": "- Developer 1nance Website made in React\n -  Fully staking, farming and pooling.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://grapefinance.app"
+                }
+            ],
+            "tags": [
+                "React",
+                "Web3",
+                "JavaScript"
+            ]
+        },
+
+        {
+            "title": "Secure Chat App",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [],
+            "tags": [
+                "Gatsby",
+                "Typescript"
+            ]
+        },
+        {
+            "title": "Communitygaming Engin",
+            "bodyText": "- A Web App for communitygaming made in **C++**.\n",
+            "links": [],
+            "tags": [
+                "C++",
+                "Python",
+                "CMake",
+                "GLSL"
+            ]
+        },
+        {
+            "title": "Google OAuth temp",
+            "bodyText": "- A Web for getting data from Google OAuth in **Nust.js**.\n",
+            "links": [
+            ],
+            "tags": [
+                "Next.js",
+                "Nust.js",
+                "Typescirpt"
+            ]
+        },
+        {
+            "title": "Image Loader",
+            "bodyText": "- A Webapp for Image loading in **Javascript.js**.\n",
+            "links": [
+        ],
+            "tags": [
+                "Javascirpt"
+            ]
+        }
+    ]
+}

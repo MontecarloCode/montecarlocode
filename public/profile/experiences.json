@@ -1,0 +1,41 @@
+{
+    "experiences": [{
+            "title": "Frontend Engineer",
+            "subtitle": "1nance Team",
+            "workType": "Freelancer",
+            "workDescription": [
+                "Developed 1nance.com with Minting, Staking and Farming"
+            ],
+            "dateText": "01/2022 – 3/2022"
+        },
+        {
+            "title": "Web Engineer",
+            "subtitle": "Grape Finance Team",
+            "workType": "Freelancer",
+            "workDescription": [
+                "Experienced with blockchain technology especially Solidity and Web3 skills",
+                "Developed grapefinance.app with Minting, Staking and Farming"
+            ],
+            "dateText": "06/2021 – 10/2021"
+        },
+        {
+            "title": "Full-stack web Engineer",
+            "subtitle": "Secret Benefits Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Wored with React.js and Node.js",
+                "Worked on SecretBenfits.com"
+            ],
+            "dateText": "03/2017 – 11/2020"
+        },
+        {
+            "title": "Frontend Webapp Developer",
+            "subtitle": "CornerStone’s Professional Placement team",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed the official web and webapps for the startup"
+            ],
+            "dateText": "06/2014 – 11/2016"
+        }
+    ]
+}

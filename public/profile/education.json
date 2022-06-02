@@ -1,0 +1,11 @@
+{
+    "education": [{
+        "title": "Oct 2010 - Mar 2014",
+        "cardTitle": "B.Tech, Computer Science",
+        "cardSubtitle": "National University of Singapore, Singapore",
+        "cardDetailedText": "CGPA - 9.0",
+        "icon": {
+            "src": "images/education/lorem-ipsum.png"
+        }
+    }]
+}
