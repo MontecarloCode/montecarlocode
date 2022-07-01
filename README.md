@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode)](https://github.com/montecarlocode/monte-portfolio)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&show_icons=true&theme=cobalt)
 
