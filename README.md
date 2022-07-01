@@ -1,75 +1,12 @@
 
-## Getting Started 🚀
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&show_icons=true&theme=cobalt)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&hide=contribs,prs) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&count_private=true)
 
-### Prerequisites 📋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montecarlocode&repo=monte-portfolio)](https://github.com/montecarlocode/monte-portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+https://react-port-q155oclx2-alwayswelcom.vercel.app/
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
-## Setup 🔧
-
-From your command line, first clone Dev Portfolio:
-
-```bash
-# Clone the repository
-$ git clone https://github.com/alwayswelcom/React-portfolio
-
-# Move into the repository
-$ cd React-portfolio
-
-# Remove the current origin repository
-$ git remote remove origin
-```
-
-After that, you can install the dependencies either using NPM or Yarn.
-
-Using NPM: Simply run the below commands.
-
-```bash
-# Install dependencies
-$ npm install --force
-
-# Start the development server
-$ npm start
-```
-
-Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file if exists before executing the below commands.
-
-```bash
-# Install dependencies
-$ yarn
-
-# Start the development server
-$ yarn start
-```
-
-Once your server has started, go to this url `http://localhost:3000/` to see the portfolio locally.
-The page will reload if you make edits.
-
-
-
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
-
-## Notable Portfolios made using this template
-
-- [Tommy Lee](https://tommy-portfolio.vercel.app)
-
-## Authors
-
-- **Tommy Lee** - [https://github.com/alwayswelcom](https://github.com/alwayswelcom)
-
-## Support
-
-If you find a bug, feel free to [open an issue](https://github.com/alwayswelcom/React-portfolio/issues) in this repository.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
