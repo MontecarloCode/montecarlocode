@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode&theme=onedark)](https://github.com/montecarlocode)
+[![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode&theme=radical)](https://github.com/montecarlocode)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&show_icons=true&theme=cobalt)
 
