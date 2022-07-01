@@ -1,5 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode&theme=radical)](https://github.com/montecarlocode)
 
+[![MasterHead](your image link)](your GitHub link)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&show_icons=true&theme=cobalt)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&hide=contribs,prs) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&count_private=true)
