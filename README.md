@@ -45,10 +45,13 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
-![Blockchain](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
+![Web3](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitBucket-333333?style=flat&logo=gitbucket)
+![GitHub](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+
