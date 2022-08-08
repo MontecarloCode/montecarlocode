@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode&theme=radical&column=10&margin-w=auto&no-frame=true)](https://github.com/montecarlocode)
 
-<p align="center">
+<div align="center">
    [![trophy](https://github-profile-trophy.vercel.app/?username=montecarlocode&theme=radical&column=10&margin-w=auto&no-frame=true)](https://github.com/montecarlocode)
   <img width="600" height="400" src="https://user-images.githubusercontent.com/102426112/178311918-ec7244cd-1b0d-48a5-8f0a-4bc8ea30c893.jpg">
   <table>
@@ -15,7 +15,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
     </tr>
 </table>
-</p>
+</div>
 
 ![CI/CD](https://github.com/beautifulinteractions/beautiful-react-hooks/workflows/CI/CD/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/beautifulinteractions/beautiful-react-hooks/badge.svg?branch=master)](https://coveralls.io/github/beautifulinteractions/beautiful-react-hooks?branch=master)
