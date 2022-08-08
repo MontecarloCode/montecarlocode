@@ -22,9 +22,10 @@
 ![npm](https://img.shields.io/npm/v/beautiful-react-hooks)
 ![GitHub stars](https://img.shields.io/github/stars/beautifulinteractions/beautiful-react-hooks?style=social)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=montecarlocode&show_icons=true&theme=cobalt&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=montecarlocode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=montecarlocode&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</div>  
 
 ### 🛠️ SKILLS
 
@@ -38,20 +39,25 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongo)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+![Solana](https://img.shields.io/badge/-Solana-333333?style=flat&logo=solana)
+![Terra](https://img.shields.io/badge/-Terra-333333?style=flat&logo=terra)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=228475)
 ![Web3](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/-GitBucket-333333?style=flat&logo=gitbucket)
-![GitHub](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![GitBucket](https://img.shields.io/badge/-GitBucket-333333?style=flat&logo=gitbucket)
+![GitLabb](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 
