@@ -41,11 +41,13 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![Sympony](https://img.shields.io/badge/-Sympony-333333?style=flat&logo=Sympony)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongo)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
